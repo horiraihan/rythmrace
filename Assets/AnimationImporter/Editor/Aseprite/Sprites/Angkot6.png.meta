@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: 0770c64f1c4624b4da42b289ab3f72e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1823760101939460781
+    second: Angkot6 0
+  - first:
+      213: -1181841671728780828
+    second: Angkot6 1
+  - first:
+      213: 8763744153270386762
+    second: Angkot6 2
+  - first:
+      213: 1600022824957739585
+    second: Angkot6 3
+  - first:
+      213: -7795613195167758381
+    second: Angkot6 4
+  - first:
+      213: 5884566442767169572
+    second: Angkot6 5
+  - first:
+      213: 2962087564847770651
+    second: Angkot6 6
+  - first:
+      213: 1208805787187248578
+    second: Angkot6 7
+  - first:
+      213: -4336942204116895851
+    second: Angkot6 8
+  - first:
+      213: 5398494974059793553
+    second: Angkot6 9
+  - first:
+      213: 3384009728624218365
+    second: Angkot6 10
+  - first:
+      213: 5811261091954370136
+    second: Angkot6 11
+  - first:
+      213: -142273099452852901
+    second: Angkot6 12
+  - first:
+      213: -1725912295126516336
+    second: Angkot6 13
+  - first:
+      213: 1495823158218532287
+    second: Angkot6 14
+  - first:
+      213: -8942384910748574154
+    second: Angkot6 15
+  - first:
+      213: 9149355341868671812
+    second: Angkot6 16
+  - first:
+      213: 5215878903576990649
+    second: Angkot6 17
+  - first:
+      213: 3729439600017596913
+    second: Angkot6 18
+  - first:
+      213: -1294088606622800377
+    second: Angkot6 19
+  - first:
+      213: -2095614842891993483
+    second: Angkot6 20
+  - first:
+      213: -5199645237226585366
+    second: Angkot6 21
+  - first:
+      213: -5257137360293057763
+    second: Angkot6 22
+  - first:
+      213: 8237511487336757589
+    second: Angkot6 23
+  - first:
+      213: 5374079872350226585
+    second: Angkot6 24
+  - first:
+      213: 2224944318027272762
+    second: Angkot6 25
+  - first:
+      213: -5473125106276274671
+    second: Angkot6 26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 880
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angkot6 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab1a7662c4f4910800000000000000
+      internalID: 1823760101939460781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e92adfd241499fe0800000000000000
+      internalID: -1181841671728780828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40861600e21f9970800000000000000
+      internalID: 8763744153270386762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1428f12384c643610800000000000000
+      internalID: 1600022824957739585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d78da71a1b60d390800000000000000
+      internalID: -7795613195167758381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428325e700e2aa150800000000000000
+      internalID: 5884566442767169572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c6a5842f27b1920800000000000000
+      internalID: 2962087564847770651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd7bbb757a86c010800000000000000
+      internalID: 1208805787187248578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59776302b0610d3c0800000000000000
+      internalID: -4336942204116895851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cc092939e4bea40800000000000000
+      internalID: 5398494974059793553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0dc1f3bea66fe20800000000000000
+      internalID: 3384009728624218365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8562dfa7c2fb5a050800000000000000
+      internalID: 5811261091954370136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 224
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55d40eae5b860ef0800000000000000
+      internalID: -142273099452852901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 224
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d318f69e35c08e0800000000000000
+      internalID: -1725912295126516336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb52b68bc3b32c410800000000000000
+      internalID: 1495823158218532287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e940e6d4446e380800000000000000
+      internalID: -8942384910748574154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 224
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443a7e3453a09fe70800000000000000
+      internalID: 9149355341868671812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 224
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b319275a36826840800000000000000
+      internalID: 5215878903576990649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1e25a8e81a1c330800000000000000
+      internalID: 3729439600017596913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062e56c4497a0ee0800000000000000
+      internalID: -1294088606622800377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ef2674761eae2e0800000000000000
+      internalID: -2095614842891993483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2ce05a43627d7b0800000000000000
+      internalID: -5199645237226585366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 112
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b2c40ac65ea07b0800000000000000
+      internalID: -5257137360293057763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 112
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55938e3bd05815270800000000000000
+      internalID: 8237511487336757589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998030abb21949a40800000000000000
+      internalID: 5374079872350226585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a321a09a11790ee10800000000000000
+      internalID: 2224944318027272762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angkot6 26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 176
+        height: 112
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e6125b6bd8b04b0800000000000000
+      internalID: -5473125106276274671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

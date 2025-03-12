@@ -1,0 +1,24 @@
+# Ignore Library, Logs, and Temp files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+.vs/
+
+# Ignore UserSettings
+[Uu]serSettings/
+
+# Ignore Unity Packages
+[Pp]ackages/com.unity.template.*
+
+# Ignore Auto-Generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.booproj
+*.svd
